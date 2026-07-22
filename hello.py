@@ -1,6 +1,6 @@
 import pdb 
-def greet(name):
-    print(name)
-    print("hello world")
-    return f"Hello, {name}!"return f"Hello, {name}!"
+def greet(name1):
+    print(name1)
+    print("helloko,.,l,ook,ikoklk world")
+    return f"Hello, {name}!"return f"Hello, {name1}!"
 print(greet(";lsm;lmlsm;lmsalmlsamlm"))
